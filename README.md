@@ -1,4 +1,4 @@
-# SECURITY-OPERATIONS - THE BLUE NIGHTINGALE
+# SOC - THE BLUE NIGHTINGALE
 
 One of the biggest challenges in today's SOC is to identify a starting point for building a threat detection usecase library. The process described below is purely based on my understanding and interpretation of the referenced technologies / tools and how we can make use of them to streamline the entire process of usecase creation.
 
