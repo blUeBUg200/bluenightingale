@@ -57,7 +57,7 @@ I would recommend you to prioritize below data sources since the associated info
 
 ## COMPILE MITRE MATRICES
 
-Consider I have choosen to start with "Command : Command Execution" for windows platform. It would be great if I could see what "Techniques", "Sub-Techniques" does this cover in a MITRE map, isn't it ? Yes, we can leverage the functionality of [DeTT&CT FRAMEWORK](https://github.com/rabobank-cdc/DeTTECT) to show us the [matrix](https://github.com/BlueBee-LLC/SECURITY-OPERATIONS/blob/main/Command_Command_Execution_MITRE.svg)
+Consider I have choosen to start with "Command : Command Execution" for windows platform. It would be great if I could see what "Techniques", "Sub-Techniques" does this cover in a MITRE map, isn't it ? Yes, we can leverage the functionality of [DeTT&CT FRAMEWORK](https://github.com/rabobank-cdc/DeTTECT) to show us the [matrix](https://github.com/OpenSourceTechie/bluenightingale/blob/main/Command_Command_Execution_MITRE.svg)
 
 ## TRIGGER TaHiTI
 
