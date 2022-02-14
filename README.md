@@ -10,8 +10,6 @@ Requesting the audience to have the basic understanding of below topics before j
 
 [TaHiTI Threat Hunting](https://www.betaalvereniging.nl/en/safety/tahiti/)
 
-[CALDERA PAYLOADS](https://caldera.readthedocs.io/en/latest/index.html)
-
 [SIGMA](https://github.com/SigmaHQ/sigma)
 
 
@@ -74,7 +72,7 @@ We have identified the logsource to focus (Command : Command Execution), we have
 
 ![image](https://user-images.githubusercontent.com/86832373/152861322-cd70207d-78ec-4aed-bc47-6a7552448e23.png)
 
-Consider you focus on creating usecase for "Execution" - Tactic and its associated 5 "Techniques" as per the compiled matrix from previous step. Start the threat hunting process and fill in all required fields in L3 sheet of TaHiTI workbook and complete the hunting process for a given Technique or Sub-Techbique.
+Consider you focus on creating usecase for "Execution" - Tactic and its associated 5 "Techniques" as per the compiled matrix from previous step. Start the threat hunting process and fill in all required fields in L3 sheet of TaHiTI workbook and complete the hunting process for a given Technique or Sub-Technique.
 
 ## BUILD SIGMA
 
