@@ -68,8 +68,9 @@ L2 Sheet - MITRE TECHNIQUES
 
 L3 Sheet - Specific usecases relating directly to technique or sub-technique associated with the tagged technique
 
+The modified version of TaHiTI is available [here](https://github.com/OpenSourceTechie/bluenightingale/blob/13ad2a3f8abec241ff5ad52705d33f2bca681eab/Magma-for-Threat-Hunting_Modifiedv1.0.xlsx).
 
-We have identified the logsource to focus (Command : Command Execution), we have the compiled MITRE matrix, we have tweaked the TaHiTI workbook, so what's next ? Create usecase ??....nahhhhh !!! Hunt before creating usecase ??....Yesss.
+We have identified the logsource to focus (Command : Command Execution), we have the compiled MITRE matrix, we have our custom TaHiTI workbook, so what's next ? Create usecase ??....nahhhhh !!! Hunt before creating usecase ??....Yesss.
 
 ![image](https://user-images.githubusercontent.com/86832373/152861322-cd70207d-78ec-4aed-bc47-6a7552448e23.png)
 
