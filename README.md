@@ -17,19 +17,20 @@ The briefing will primarily focus on how we can build a vendor neutral SOC team 
 
 # THE PROCEDURE
 
-When we start our hunting process for usecase creation, there are multiple factors / sources which can be the trigger point. I have classified them as below three broader categories
+I have classified the trigger source of the use-case creation process into three categories as shown below,
 
-![image](https://user-images.githubusercontent.com/86832373/152847530-3ab37887-2f09-4edb-accf-cea3c8d0c553.png)
+ ![Screen Shot 2022-02-15 at 2 10 39 PM](https://user-images.githubusercontent.com/86832373/154040418-f83eb211-5aa6-422e-a3e6-981faa3ca1fd.png)
 
-"**Log Sources**" : Gathering information about your existing "BlueEngine" integrated devices and creating usecase based on the data ingested. The data can be of any forms such as "Event Logs", "Network Flows", etc., [more easiest way.. isn't it ?]
+
+"**Existing Data Sources**" : Gathering information about your existing "BlueEngine" integrated devices and creating usecase based on the data ingested. The data can be of any forms such as "Event Logs", "Network Flows", etc., [more easiest way.. isn't it ?]
 
 "**Threat Intelligence**" : Gathering information about the TTP of an attacker / group as listed in Government / Non-Government Threat Inteliigence reports, Internal forensics reports, any recent IR reports, etc.,
 
 "**Red Teaming / Penetration Testing**" : Recent Red Teaming / Penetration Testing reports which helps to narrow down our weakest area and focus on enhancing detections around the "Tactics", "Techniques" or "Sub-Techniques". which was exploited without being detected by Blue team.
 
-# **PHASE I : LOG SOURCES**
+# **ADHIYAYAM I : EXISTING DATA SOURCES**
 
-Below is the generic outline of PHASE I,
+This phase is broken into sub stages as listed below,
 
 ![image](https://user-images.githubusercontent.com/86832373/152855379-a103cb13-0376-434a-89f3-3d439c7dc321.png)
 
