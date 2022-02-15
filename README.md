@@ -30,11 +30,11 @@ I have classified the trigger source of the use-case creation process into three
 
 # **ADHYAYAM I : EXISTING DATA SOURCES**
 
-This phase is broken into 5 sub-stages as listed below,
+This phase is broken into 5 stages as listed below,
 
 ![image](https://user-images.githubusercontent.com/86832373/152855379-a103cb13-0376-434a-89f3-3d439c7dc321.png)
 
-> S2 is the convergence point in all three phases [P1, P2, P3]
+> Stage2(S2) is the convergence point in all three phases [A1, A2, A3]
 
 ### PICK A MITRE DATA SOURCE
 Our goal in this phase is to identify the data source to focus. MITRE ATT&CK ["Data Sources"](https://attack.mitre.org/datasources/) provides the list of data sources and by doing some homework, we can understand the importance of data sources and their major role in creating a usecase library. Having both [MITRE ATT&CK](https://attack.mitre.org/) & [DeTT&CT FRAMEWORK](https://github.com/rabobank-cdc/DeTTECT) in hand, I was able to indetify the number of "Techniques" and "Sub-Techniques" which can be covered by each data source. Screenshot as provided in [DeTT&CT FRAMEWORK](https://github.com/rabobank-cdc/DeTTECT) github [higher the number, more brighter your detection matrix...]
@@ -78,7 +78,7 @@ Consider you focus on creating usecase for "Execution" - Tactic and its associat
 
 ### BUILD SIGMA
 
-Now we came to the final part of PHASE I usecase creation. Once hunt is completed, we will create an associated sigma considering the "false positive" factor as well for each sigma rule. Considering the below facts, the rule will either proposed as an usecase to be deployed in your "BlueEngine" or it remains as a hunt book,
+Now we came to the final part of ADHYAYAM I usecase creation. Once hunt is completed, we will create an associated sigma considering the "false positive" factor as well for each sigma rule. Considering the below facts, the rule will either proposed as an usecase to be deployed in your "BlueEngine" or it remains as a hunt book,
 
 - The number possible FP it can generate based the techniques nature -- example: [T1059.006](https://attack.mitre.org/techniques/T1059/006/)
 - Based on the observation out from TaHiTI output
