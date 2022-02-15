@@ -87,4 +87,8 @@ Now we came to the final part of PHASE I usecase creation. Once hunt is complete
 
 - Sigma conf file should be modified accordingly to match your index / field values. Yes, the conf files are super flexible to have this modifications done.
 
+### CONCLUSION
+
+To adopt this process, the team should have core understanding of the technologies involved. A successful execution of this model in a SOC will produce considerable amount of change in their use-case repositiory. Do try implementing this model in your organization and let me know your comments.
+
 ### STAY TUNED FOR A2 and A3...
