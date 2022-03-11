@@ -48,7 +48,7 @@ In addition to the above, below data points need to be considered while finalizi
 ![image](https://user-images.githubusercontent.com/86832373/152856722-0dce957a-88e3-4af4-aa1d-1c6f89883ff8.png)
 more details about the table can be found in [DeTT&CT FRAMEWORK](https://github.com/rabobank-cdc/DeTTECT)
 
-I would recommend you to prioritize below data sources since the associated information might already be available or easy to ingest into your "BlueEngine". 
+I would recommend you to prioritize below data sources at initial stages (since the associated information might already be available or easy to ingest into your "BlueEngine"). 
 
 1. Command : Command Execution (ex: Windows EID 4688 of cmd.exe showing command-line parameters, ~/.bash_history, or ~/.zsh_history)
 2. Process : Process Creation (Birth of a new running process (ex: Windows EID 4688)
