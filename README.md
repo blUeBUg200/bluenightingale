@@ -91,6 +91,4 @@ Now we came to the final part of ADHYAYAM I usecase creation. Once hunt is compl
 
 ### CONCLUSION
 
-To adopt this process, the team should have core understanding of the technologies involved. A successful execution of this model in a SOC will produce considerable amount of change in their use-case repositiory. Do try implementing this model in your organization and let me know your comments.
-
-### STAY TUNED FOR A2 and A3...
+To adopt this process, the team should have core understanding of the technologies involved. A successful execution of this model in a SOC will produce considerable amount of change in their use-case repositiory. Do try implementing this model in your organization and let me know your comments through LinkedIn, Twitter
