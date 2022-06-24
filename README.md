@@ -2,15 +2,17 @@
 
 One of the biggest challenges in today's SOC is to identify a starting point for building a threat detection usecase library. The process described below is purely based on my understanding and interpretation of the referenced technologies / tools and how we can make use of them to streamline the entire process of usecase creation.
 
-Requesting the audience to have the basic understanding of below topics before jumping into the process description,
+Requesting the audience to have basic understanding of below topics before jumping into the described process for better understanding,
+
+
+[SIGMA](https://github.com/SigmaHQ/sigma)
 
 [MITRE ATT&CK](https://attack.mitre.org/)
 
-[DeTT&CT FRAMEWORK](https://github.com/rabobank-cdc/DeTTECT)
+[DeTT&CT Framework](https://github.com/rabobank-cdc/DeTTECT)
 
 [TaHiTI Threat Hunting](https://www.betaalvereniging.nl/en/safety/tahiti/)
 
-[SIGMA](https://github.com/SigmaHQ/sigma)
 
 
 The briefing will primarily focus on how we can build a vendor neutral SOC team having a threat usecase library built over SIGMA. Going forward, we will use a generic name "BlueEngine" which refers back to the any of the SOC technologies such as Security Information and Event Management(SIEM), Network Detection and Response(NDR), Endpoint Detection and Response(EDR) which is in your current scope of work.
